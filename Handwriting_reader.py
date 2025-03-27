@@ -8,7 +8,7 @@ api_key = st.secrets["OPENAI_API_KEY"]
 azure_key = st.secrets["AZURE_OPENAI_KEY"]
 azure_endpoint = st.secrets["AZURE_ENDPOINT"]
 api_version = st.secrets["AZURE_API_VERSION"]
-deployment_name = st.secrets["AZURE_DEPLOYMENT_NAME"]
+
 
 # Configure Azure OpenAI
 client = AzureOpenAI(
