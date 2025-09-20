@@ -163,5 +163,5 @@ Azure OpenAI for vision + image generation.
 
 MIT / Apache-2.0 / GPL — choose one and add LICENSE fil
 
-## 📂 Project Layout
+
 
